@@ -1,7 +1,7 @@
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color:whitesmoke;
     margin: 0;
     padding: 0;
 }
@@ -10,7 +10,7 @@ body {
     max-width: 550px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: wheat;
     border-radius: 13px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -46,7 +46,7 @@ input[type="radio"] {
 button {
     padding: 10px;
     background-color: #4CAF50;
-    color: white;
+    color: darkblue;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -61,5 +61,5 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: darkblue;
 }
